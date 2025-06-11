@@ -11,7 +11,7 @@
 
 Este trabajo práctico consiste en el desarrollo de una gramática utilizando cláusulas definidas en Prolog (DCG) para generar y validar oraciones simples. Se construye una base de conocimiento con estructuras gramaticales como sintagmas nominales y verbales, respetando género y número, y se generan árboles sintácticos a partir de consultas.
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 - Implementación de gramáticas en Prolog con DCG.
 - Representación de estructuras gramaticales con argumentos de género y número.
